@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: ajmichael@♣.mf
+Premain-Class: metazoa.Metazoa
+Can-Retransform-Classes: true
